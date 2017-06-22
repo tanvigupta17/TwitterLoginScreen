@@ -5,3 +5,6 @@ Clone of the login screen for the Android **Twitter** app.
 Submitted by: **Tanvi Gupta** and **Elvis Kahoro**
 
 Time spent: **1.5** hours spent in total
+
+
+![Screenshot](https://github.com/tanvigupta17/TwitterLoginScreen/blob/master/screenshot.png)
